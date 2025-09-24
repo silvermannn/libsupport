@@ -1,2 +1,2 @@
 # libsupport
-Support C++ library for CDPlayer
+C++ library for CDPLayer
